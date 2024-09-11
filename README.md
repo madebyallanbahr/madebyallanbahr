@@ -10,7 +10,3 @@
 - 💬 Ask me about **JS, Node.js, and PHP/Laravel.**
 
 - 📫 How to reach me **madebyallanbahr@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madebyallanbahr&show_icons=true&locale=en&layout=compact" alt="madebyallanbahr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madebyallanbahr&show_icons=true&locale=en" alt="madebyallanbahr" /></p>
