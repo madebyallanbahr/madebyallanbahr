@@ -10,3 +10,5 @@
 - 💬 Ask me about **JS, Node.js, and PHP/Laravel.**
 
 - 📫 How to reach me **madebyallanbahr@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/madebyallanbahr/)
