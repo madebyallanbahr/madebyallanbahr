@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **@melhorenvio**
 
-- 🌱 I’m currently learning **Laravel, Vue.js, and exploring Golang**
+- 🌱 I’m currently learning **Laravel, Vue.js, and exploring Golang and C++**
 
 - 💬 Ask me about **Golang, Node.js, and PHP/Laravel.**
 
