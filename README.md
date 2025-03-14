@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **@melhorenvio**
 
-- 🌱 I’m currently learning **Laravel, Vue.js, and exploring Golang and C++**
+- 🌱 I’m currently learning **Laravel, PHP, Vue.js, and exploring Golang and Shell Script**
 
-- 💬 Ask me about **Golang, Node.js, and PHP/Laravel.**
+- 💬 Ask me about **Golang, Node.js, Shell Script and PHP/Laravel.**
 
 - 📫 How to reach me **madebyallanbahr@gmail.com**
 
