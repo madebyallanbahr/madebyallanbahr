@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **@melhorenvio**
 
-- 🌱 I’m currently learning **Laravel, PHP, Vue.js, and exploring Golang and Shell Script**
+- 🌱 I’m currently learning **Laravel, PHP, Vue.js, exploring Golang and Shell Script**
 
 - 💬 Ask me about **Golang, Node.js, Shell Script and PHP/Laravel.**
 
