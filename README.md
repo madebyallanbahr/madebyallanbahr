@@ -8,5 +8,3 @@
 - 💬 Ask me about **Golang, Node.js, Shell Script and PHP/Laravel.**
 
 - 📫 How to reach me **madebyallanbahr@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/madebyallanbahr/)
