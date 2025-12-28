@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Made by Allan Bahr</h1>
+<h1 align="center">Hi 👋, I'm Allan Bahr</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
 - 🔭 I’m currently working on **@melhorenvio**
